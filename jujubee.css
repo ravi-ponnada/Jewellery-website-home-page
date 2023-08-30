@@ -1,0 +1,104 @@
+.homepage{
+    background-image: linear-gradient( lightgoldenrodyellow, gold,lightgoldenrodyellow);
+     text-align: center;
+     height: 600px;
+
+}
+
+.navbar-search{
+    border-radius: 5px;
+    border-width: 0px;
+    height: 40px;
+}
+
+.home-button{
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-right: 10px;
+}
+
+.home-button:hover{
+    background-color: lightgoldenrodyellow;
+}
+
+.menu{
+    background-color: whitesmoke;
+    padding: 50px;
+}
+
+.menu p{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+
+}
+
+.menu a{
+    color: rgb(250, 185, 185);
+    text-align: left;
+}
+
+.menu-card{
+ background-color: aliceblue;
+ height: auto;
+ width: 250px;
+ border-radius: 10px;
+ margin-left: 20px;
+ margin-top: 10px;
+ margin-right: 10px;
+ margin-bottom: 20px;
+ text-align: center;
+ padding: 10px;
+}
+
+.menu-image{
+    margin-top: 10px;
+}
+
+.footer{
+    background-color: azure;
+    height: auto;
+}
+
+h4{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.end{
+    background-color: grey;
+    text-align: center;
+}
+
+.menu-mrp{
+    text-align: left;
+}
+
+.offer-button{
+    width: 110px;
+    height: 50px;
+    color: black;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: yellow;
+}
+
+.offer{
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 0px;
+}
+
+.offer-button:hover{
+    background-color: lightgoldenrodyellow;
+    color: black;
+}
+
+.offer{
+    background-color: rgb(240, 240, 240);
+    width: auto;
+    height: auto;
+    margin-top: 0px;
+}
